@@ -1,0 +1,2 @@
+Should require a function to report struct size to allow more advanced test cases
+Add tests for required error handling and sanity checking
